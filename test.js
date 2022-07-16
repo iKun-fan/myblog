@@ -9,6 +9,14 @@ function fx() {
     }
 }
 
+//等价
+// x = function (j) {
+//     setTimeout(function () {
+//         console.log(j)
+//     }, 0)
+// }
+// x(i)
+
 //下面是抄来的
 // function test(){
 //     for (var i = 0; i < 10; i++) {
