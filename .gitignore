@@ -2,3 +2,16 @@ test.js
 test2.js
 .vscode
 test.md
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+package.json
+pnpm-lock.yaml
+yarn.lock
+db.json
+hexo-site/
